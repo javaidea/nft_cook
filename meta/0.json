@@ -1,0 +1,25 @@
+{
+  "name": "The Tiny Field",
+  "symbol": "XFC",
+  "description": "A tiny field",
+  "seller_fee_basis_points": 400,
+  "image": "https://raw.githubusercontent.com/javaidea/nft_cook/main/meta/0.png",
+  "external_url": "https://www.google.com/maps/@37.4996014,-121.1808559,645m/data=!3m1!1e3",
+  "edition": 0,
+  "attributes": [
+    { "trait_type": "FBKey", "value": "0101010101010101" },
+    { "trait_type": "Year", "value": "2022" },
+    { "trait_type": "Season", "value": "Fall" },
+    { "trait_type": "Crop Type", "value": "Corn" }
+  ],
+  "properties": {
+    "files": [{ "uri": "0.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FZ8k4i2PVPExEw6JfRPo7aYmJpEWqCj6Rr3sTAB2nhuC",
+        "share": 100
+      }
+    ]
+  }
+}
